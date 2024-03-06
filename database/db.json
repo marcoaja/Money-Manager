@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "namaTransaksi": "Gaji",
+      "kuantitas": "1",
+      "nominalTransaksi": "10.000.000",
+      "jenisTransaksi": "Pemasukan"
+    },
+    {
+      "id": 1,
+      "namaTransaksi": "Cicilan Bulanan",
+      "kuantitas": "1",
+      "nominalTransaksi": "2.500.000",
+      "jenisTransaksi": "Pengeluaran"
+    }
+  ]
+}
